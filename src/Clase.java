@@ -22,6 +22,7 @@ public class Clase {
 		System.out.println("Adios " + Nombre);
 
 		System.out.println("HOLA MUNDOOOOOO");
+		System.out.println("mi proyectooooO");
 	}
 
 }
