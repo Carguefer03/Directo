@@ -9,7 +9,7 @@ public class Clase {
 		
 		Nombre = scan.nextLine();
 		
-		System.out.println("Hola " + miNombre);
+		System.out.println("Hola " + Nombre);
 		
 		System.out.println("Introduzca el numero1");
 		Integer numeroLectura1 = scan.nextInt();
@@ -19,8 +19,9 @@ public class Clase {
 		Integer suma2 = numeroLectura1 + numeroLectura2;
 		System.out.println("La suma de los numeros es " + suma2);
 		
-		System.out.println("Adios " + miNombre);
+		System.out.println("Adios " + Nombre);
 
+		System.out.println("HOLA MUNDOOOOOO");
 	}
 
 }
