@@ -23,7 +23,7 @@ public class Clase {
 
 		System.out.println("HOLA MUNDOOOOOO");
 		System.out.println("mi proyectooooO");
-		System.out.println("mi ");
+		System.out.println("mi  gvfohfdodnfdfdff");
 	}
 
 }
